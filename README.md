@@ -2,11 +2,7 @@
   <img src="banner.png" width="100%">
 </p>
 
-# AI-Assisted Alert Triage System
 
-Improving security operations by reducing alert fatigue and enabling faster alert investigation for SOC analysts.
-
----
 
 # Problem Statement
 
