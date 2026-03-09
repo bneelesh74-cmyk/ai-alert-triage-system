@@ -34,13 +34,9 @@ This design focuses on **reducing alert fatigue** and enabling analysts to proce
 
 ---
 
-# Interactive Prototype
+# Product Screens
 
 🔗 **[Open the Figma Design](https://www.figma.com/design/fjCl7Z0iw5DevlpbEXhBfD/Alert-Triage-Workflow?node-id=0-1&t=MdtL47Ql0lMxPqkW-1)**
-
----
-
-# Product Screens
 
 ## AI-Prioritized Alert Dashboard
 
