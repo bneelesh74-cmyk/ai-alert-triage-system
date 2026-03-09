@@ -27,8 +27,7 @@ This helps reduce noise and improves investigation efficiency.
 
 ## Quick Triage Mode
 
-![Quick Triage](quick mode.png)
-
+![Quick Mode](quick%20mode.png)
 Quick Triage Mode presents alerts in a focused alert card interface where analysts review alerts one at a time.
 
 The card surfaces the most important signals such as:
