@@ -8,7 +8,9 @@ Improving security operations by reducing alert fatigue and enabling faster aler
 
 🔗 **View the Figma Design**
 
-https://www.figma.com/design/fjCl7Z0iw5DevlpbEXhBfD/Alert-Triage-Workflow?node-id=0-1&t=MdtL47Ql0lMxPqkW-1
+🔗 **View the Figma Prototype**
+
+[Open Figma Design](https://www.figma.com/design/fjCl7Z0iw5DevlpbEXhBfD/Alert-Triage-Workflow?node-id=0-1&t=MdtL47Ql0lMxPqkW-1)
 
 ---
 
