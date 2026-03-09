@@ -8,6 +8,36 @@ Improving security operations by reducing alert fatigue and enabling faster aler
 
 ---
 
+# Problem Statement
+
+Security analysts monitoring cloud environments deal with a large number of alerts every day. Many of these alerts are repetitive or low priority, making it difficult to quickly identify which incidents truly require attention.
+
+This often leads to **alert fatigue, slower investigations, and the risk of missing critical threats.**
+
+This solution improves the alert triage workflow by helping analysts:
+
+• Quickly surface high-risk alerts  
+• Review important information in a focused interface  
+• Act faster through AI-assisted prioritization and rapid triage tools  
+
+---
+
+# User Persona
+
+## Security Operations Analyst (SOC Analyst)
+
+SOC analysts monitor security alerts and investigate suspicious activity across cloud systems. They often operate in **high-pressure environments** where large volumes of alerts must be reviewed quickly.
+
+They need tools that help them:
+
+• Prioritize alerts effectively  
+• Understand alert context quickly  
+• Act efficiently without navigating complex workflows  
+
+This design focuses on **reducing alert fatigue** and enabling analysts to process alerts faster and respond to potential threats more effectively.
+
+---
+
 # Interactive Prototype
 
 🔗 **[Open the Figma Design](https://www.figma.com/design/fjCl7Z0iw5DevlpbEXhBfD/Alert-Triage-Workflow?node-id=0-1&t=MdtL47Ql0lMxPqkW-1)**
@@ -46,36 +76,6 @@ The card surfaces the most important signals such as:
 • Similar alerts in the last 24 hours  
 
 Analysts can rapidly take actions such as **Investigate, Assign, Close, or Compare alerts**, helping them process alerts significantly faster.
-
----
-
-# Problem Statement
-
-Security analysts monitoring cloud environments deal with a large number of alerts every day. Many of these alerts are repetitive or low priority, making it difficult to quickly identify which incidents truly require attention.
-
-This often leads to **alert fatigue, slower investigations, and the risk of missing critical threats.**
-
-This solution improves the alert triage workflow by helping analysts:
-
-• Quickly surface high-risk alerts  
-• Review important information in a focused interface  
-• Act faster through AI-assisted prioritization and rapid triage tools  
-
----
-
-# User Persona
-
-## Security Operations Analyst (SOC Analyst)
-
-SOC analysts monitor security alerts and investigate suspicious activity across cloud systems. They often operate in **high-pressure environments** where large volumes of alerts must be reviewed quickly.
-
-They need tools that help them:
-
-• Prioritize alerts effectively  
-• Understand alert context quickly  
-• Act efficiently without navigating complex workflows  
-
-This design focuses on **reducing alert fatigue** and enabling analysts to process alerts faster and respond to potential threats more effectively.
 
 ---
 
